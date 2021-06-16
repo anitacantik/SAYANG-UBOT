@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
-    <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/anitacantik/SAYANG-UBOT?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/ramadhani892/RAM-UBOT">
